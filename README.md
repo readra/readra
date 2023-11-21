@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on [PNPSECURE](Backend developer (May 2021 ~))
 
-- 🌱 I’m currently learning **Spring Batch, JPA**
-
 - 👯 I’m previously working on [humusOn](Solution developer (Jan 2020 - APR 2021))
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **Spring Batch, JPA**
+
 <p align="left">
 </p>
 
