@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PNPSECURE](Backend developer (May 2021 ~))
 
-- 👯 I’m previously worked on [humusOn](Solution developer (Jan 2020 - Apr 2021))
+- 👯 I’m previously worked on [humusOn](Solution developer (Jan 2020 - May 2021))
 
 - 🌱 I’m currently learning **Spring Batch, JPA**
 
